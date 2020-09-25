@@ -1,0 +1,88 @@
+@media (min-width: 1024px)  {
+    .ext{
+        margin-left: 150px;
+        font-size: 20px;
+    }
+    article{
+        margin-top: 90px !important;
+    }
+    body{
+        background-image: url('../img/asg.jpeg');
+        background-size: 100%;
+        background-repeat: repeat;
+    }
+    .sedes{
+        height: 200px !important;
+        padding-top: 10px !important;
+    }
+    .tabla{
+        padding-top: 40px !important;
+    }
+}
+
+
+@media screen and (max-width: 600px) {
+    .hiddencarr{
+        visibility: hidden;
+    }
+    article{
+        margin-top: 30px !important;
+    }
+    body{
+        background-image: url('../img/asg.jpeg');
+        background-size: 100%;
+        background-repeat: repeat-y;
+    }
+    .sedes{
+        height: 200px !important;
+        padding-top: 10px !important;
+    }
+    .tabla{ 
+        padding-top: 40px !important;
+    }
+  }
+
+
+.home{
+    font-size: 25px;
+    margin-left: 250px;
+}
+.logo{
+     width: 20%;
+     height: 40%;
+ }
+.carrusel{
+    width: 100%;
+    height: 300px !important; 
+}
+section{
+    margin-top: 50px;
+}
+footer{
+    background-color: black;
+}
+p{
+    display: inline !important;
+    font-weight: bold;
+}
+.piefoto{
+    height: 30px;
+    width: 150px;
+    float: right;
+}
+.card{
+    padding-bottom: 30px !important;
+}
+.form{
+    padding-top: 50px !important;
+    padding-bottom: 30px !important; 
+}
+.margentabla{
+    margin-bottom: 60px !important;
+}
+button{
+    margin-left: 10px !important;
+}
+.hi{
+    background-color: blue !important;
+}
